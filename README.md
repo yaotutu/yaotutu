@@ -6,7 +6,7 @@
 
 
 <h1>Hi 👋, I'm 垚土土</h1>
-<p>一名前端开发者,目前专注于Server Lite Monitor项目, 这是一个移动端优先的系统监视器开源项目,用于监控NAS Linux等系统的运行状态. 最近也在将自己的编辑器从vscode迁移至neovim的工作.</p>
+<p>一名前端开发者.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
